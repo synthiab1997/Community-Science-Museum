@@ -16,7 +16,6 @@ body{
    width: 100vw;
    height: 400px;
    background-color:;
-  
    
 }
 
@@ -74,6 +73,9 @@ nav {
 .banner-button:hover {
     background-color: #898121E5;
 }
+
+/*main*/
+
 main{
     background-color: #e7b10a;
     padding: 3vh;
